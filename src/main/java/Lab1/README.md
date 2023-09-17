@@ -17,4 +17,4 @@ This is a Maven project created using IntelliJ.
 
 Please feel free to contribute by submitting pull requests.
 
-<img src="/Users/jeffery/Desktop/COMP3111Lab1.png" title="COMP 3111 Lab 1 Screenshot" width="200"/>
+<img src="src/main/java/COMP3111Lab1.png" title="COMP 3111 Lab 1 Screenshot" width="200"/>
