@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bba92324-9f74-4290-bb4f-bb318fcfef42" name="Changes" comment="Add 2 print lines as report heading">
-      <change afterPath="$PROJECT_DIR$/README.md." afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bba92324-9f74-4290-bb4f-bb318fcfef42" name="Changes" comment="Revise README" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694923422088</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add README">
+      <created>1694924791313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694924791313</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Revise README">
+      <created>1694924963972</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694924963972</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,7 +118,9 @@
     <MESSAGE value="his is an initial commit for Comp3111LEx Project”" />
     <MESSAGE value="This is an initial commit for Comp3111LEx Project”" />
     <MESSAGE value="Add 2 print lines as report heading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 2 print lines as report heading" />
+    <MESSAGE value="Add README" />
+    <MESSAGE value="Revise README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revise README" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

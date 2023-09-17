@@ -16,3 +16,4 @@ This is a Maven project created using IntelliJ.
 ## Contributing
 
 Please feel free to contribute by submitting pull requests.
+<img src="/Users/jeffery/Desktop/Screenshot 2023-09-17 at 12.33.24 PM.png" title="COMP 3111 Lab 1 Screenshot" width="200"/>
